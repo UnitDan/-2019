@@ -14,5 +14,5 @@
 
   最后不要忘了push上去。
 
-* push之后https://unitdan.github.io/OJ/页面没有变化不要慌，要等一分钟左右。要是还没有变化就可以慌了。
+* push之后如果 https://unitdan.github.io/OJ/ 页面没有变化不要慌，要等一分钟左右。要是还没有变化就可以慌了。
 
