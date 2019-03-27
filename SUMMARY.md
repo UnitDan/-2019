@@ -11,5 +11,6 @@
   * [管理员系统设计](guanliyuan.md)
   * [教师系统设计](jiaoshi.md)
   * [学生系统设计](xuesheng.md)
+  * [考生系统设计](kaosheng.md)
+* [系统特性](texing.md)
 
-  * [系统特性](texing.md)
