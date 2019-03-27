@@ -16,7 +16,7 @@
 ![图片](https://uploader.shimo.im/f/lwv1d1LxcVYADWzr.png!thumbnail)
 
 
-### 三、系统设计（[原型图](../yxt/index.html/)）
+### 三、系统设计（[原型图](yxt/index.html/)）
 1. 管理员
     1. 创建用户
         1. 创建教师用户
