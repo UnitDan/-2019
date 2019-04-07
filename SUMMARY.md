@@ -11,6 +11,6 @@
     * [学生系统设计](team/xuesheng.md)
     * [考生系统设计](team/kaosheng.md)
   * [系统特性](team/texing.md)
-* [设计统一阶段](together/README.md)
-  * [课程内容管理](together/kechengneirong.md)
+* [设计统一阶段](together/RdEADME.md)
+  * [课程内容管理](together/kedchengneirong.md)
 
