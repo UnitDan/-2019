@@ -1,1 +1,1 @@
-gitbook build . ./docs && git add . && git status && git commit -m "edit"
+git add . && git commit -m "presave" && gitbook build . ./docs && git add . && git status && git commit -m "edit"
