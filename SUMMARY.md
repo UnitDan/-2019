@@ -13,3 +13,5 @@
   * [系统特性](team/texing.md)
 * [设计统一阶段](together/README.md)
   * [课程内容管理](together/kechengneirong.md)
+* [开发阶段](kaifa/kaifa.md)
+  * [模块技术文档](kaifa/mokuai.md)
